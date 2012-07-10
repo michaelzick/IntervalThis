@@ -14,4 +14,3 @@ intThis = function() {
 };
 
 intThis();
-​
